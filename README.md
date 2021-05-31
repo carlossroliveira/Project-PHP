@@ -11,7 +11,7 @@ Cotem 7 desafios, feito em JavaScript e PHP.
 
 
 ```bash
-# Baixe XAMPP ou MAMP inclua o projeto dentro da pasta htdocs.
+# Baixe XAMPP ou MAMP insira o projeto dentro da pasta htdocs.
 # Rode o servidor.
 # Criar uma tabela no phpMyAdmin (Nome, data, cpf, doc)
 ```
