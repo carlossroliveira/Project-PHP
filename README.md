@@ -13,7 +13,8 @@ Cotem 7 desafios, feito em JavaScript e PHP.
 ```bash
 # Baixe XAMPP ou MAMP insira o projeto dentro da pasta htdocs.
 # Rode o servidor.
-# Criar uma tabela no phpMyAdmin (Nome, data, cpf, doc)
+# Crie um Banco de dados com nome (coleta) no phpMyAdmin, nome da Tabela (informacoes).
+# Inclua (Nome, data, cpf, doc) dentro da Tabela.
 ```
 
 ## ♟️ Techs
